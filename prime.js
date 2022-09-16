@@ -1,4 +1,5 @@
 let f = 0;
+let num=19;
 for (let i=2;i<num;i++){
     if(num%i==0){
         f++;
